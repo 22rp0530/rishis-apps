@@ -1,1 +1,1 @@
-# rishis-apps
+# Rishi's Apps
